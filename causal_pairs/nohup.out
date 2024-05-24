@@ -1,0 +1,19 @@
+  0%|          | 0/408 [00:00<?, ?it/s]  7%|▋         | 30/408 [00:00<00:06, 56.74it/s] 15%|█▍        | 60/408 [00:03<00:23, 15.01it/s] 22%|██▏       | 90/408 [00:04<00:17, 18.38it/s] 29%|██▉       | 120/408 [00:06<00:14, 20.05it/s] 37%|███▋      | 150/408 [00:07<00:11, 21.53it/s]/home/hong/miniconda3/lib/python3.12/site-packages/numpy/core/fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/hong/miniconda3/lib/python3.12/site-packages/numpy/core/_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/home/hong/miniconda3/lib/python3.12/site-packages/numpy/core/fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/hong/miniconda3/lib/python3.12/site-packages/numpy/core/_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+ 44%|████▍     | 180/408 [00:08<00:10, 21.45it/s] 51%|█████▏    | 210/408 [00:09<00:08, 22.07it/s] 59%|█████▉    | 240/408 [00:11<00:07, 22.06it/s] 66%|██████▌   | 270/408 [00:12<00:06, 20.85it/s] 74%|███████▎  | 300/408 [00:14<00:05, 20.82it/s] 81%|████████  | 330/408 [00:15<00:03, 20.63it/s] 88%|████████▊ | 360/408 [00:17<00:02, 20.25it/s] 96%|█████████▌| 390/408 [00:19<00:00, 19.70it/s]100%|██████████| 408/408 [00:19<00:00, 21.47it/s]
+  0%|          | 0/408 [00:00<?, ?it/s]  7%|▋         | 30/408 [00:00<00:06, 55.37it/s] 15%|█▍        | 60/408 [00:06<00:45,  7.68it/s] 15%|█▍        | 60/408 [00:20<00:45,  7.68it/s] 22%|██▏       | 90/408 [00:40<03:07,  1.69it/s] 29%|██▉       | 120/408 [01:11<03:37,  1.32it/s]/home/hong/miniconda3/lib/python3.12/site-packages/numpy/core/fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/hong/miniconda3/lib/python3.12/site-packages/numpy/core/_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/home/hong/miniconda3/lib/python3.12/site-packages/numpy/core/fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/hong/miniconda3/lib/python3.12/site-packages/numpy/core/_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+ 37%|███▋      | 150/408 [01:48<03:59,  1.08it/s] 44%|████▍     | 180/408 [02:48<04:54,  1.29s/it] 51%|█████▏    | 210/408 [04:04<05:37,  1.70s/it] 59%|█████▉    | 240/408 [05:59<06:40,  2.38s/it] 66%|██████▌   | 270/408 [06:33<04:33,  1.98s/it] 74%|███████▎  | 300/408 [07:56<04:01,  2.23s/it] 81%|████████  | 330/408 [09:34<03:18,  2.55s/it] 88%|████████▊ | 360/408 [12:49<03:00,  3.75s/it] 96%|█████████▌| 390/408 [14:56<01:10,  3.90s/it]100%|██████████| 408/408 [14:56<00:00,  2.20s/it]
+Done!
